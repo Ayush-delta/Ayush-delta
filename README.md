@@ -1,11 +1,11 @@
-🚀 Full-Stack Developer | Ethical Hacking Enthusiast | Open Source Contributor
+🚀 Full-Stack Developer | Ethical Hacking Enthusiast | Open Source Contributor</br>
 
 Passionate about building scalable web applications, exploring cybersecurity as an ethical hacker, and contributing to open-source projects. Currently a contributor at GirlScript Summer of Code (GSSoC) 2024.
-🔹 Tech Stack: Full-Stack Web Development (React, Node.js, MongoDB, etc.)
-🔹 Cybersecurity: Learning penetration testing & Kali Linux tools
-🔹 Always Learning: Ethical hacking, cloud security, and scalable software solutions
+🔹 Tech Stack: Full-Stack Web Development (React, Node.js, MongoDB, etc.)</br>
+🔹 Cybersecurity: Learning penetration testing & Kali Linux tools</br>
+🔹 Always Learning: Ethical hacking, cloud security, and scalable software solutions</br>
 
-💡 Open to collaborations on security-focused web apps 
+💡 Open to collaborations on security-focused web apps</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayush Ratna ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ayush07992829) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushratna2012@gmail.com) 
