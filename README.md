@@ -1,6 +1,6 @@
 🚀 Full-Stack Developer | Ethical Hacking Enthusiast | Open Source Contributor</br>
 
-Passionate about building scalable web applications, exploring cybersecurity as an ethical hacker, and contributing to open-source projects. Currently a contributor at GirlScript Summer of Code (GSSoC) 2024.</br>
+Passionate about building scalable web applications, exploring cybersecurity as an ethical hacker, and contributing to open-source projects.</br>
 🔹 Tech Stack: Full-Stack Web Development (React, Node.js, MongoDB, etc.)</br>
 🔹 Cybersecurity: Learning penetration testing & Kali Linux tools</br>
 🔹 Always Learning: Ethical hacking, cloud security, and scalable software solutions</br>
