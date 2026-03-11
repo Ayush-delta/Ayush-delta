@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-delta&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-delta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-delta" alt="ayush-delta" /></a> </p>
-
 - 🔭 I’m currently working on **DevOps project**
 
 - 🌱 I’m currently learning **Cloud Security and Penetration testing.**
