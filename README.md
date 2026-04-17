@@ -1,21 +1,97 @@
 <h1 align="center">Hi 👋, I'm Ayush Ratna</h1>
-<h3 align="center">I am a Full Stack developer</h3>
+<h3 align="center">🚀 Full Stack Developer | 🔐 Aspiring Security Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-delta&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-delta" /> </p>
-
-- 🔭 I’m currently working on **DevOps project**
-
-- 🌱 I’m currently learning **Cloud Security and Penetration testing.**
-
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 📫 How to reach me **ayushratna2012@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p p align="left">
-<a href="https://twitter.com/ayush07992829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush07992829" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-ratna27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-ratna27/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayush-delta&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-delta" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+* 🔭 Currently working on **DevOps Projects**
+* 🌱 Learning **Cloud Security & Penetration Testing**
+* 👯 Open to **Open Source Collaboration**
+* 💡 Interested in **Cybersecurity + Scalable Systems**
+* 📫 Reach me at **[ayushratna2012@gmail.com](mailto:ayushratna2012@gmail.com)**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://twitter.com/ayush07992829"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://www.linkedin.com/in/ayush-ratna27/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+### 🧠 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,bash" />
+</p>
+
+### ⚙️ Backend & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,nginx,appwrite" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-delta&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-delta&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-delta&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+```bash
+> Building scalable backend systems
+> Learning advanced cybersecurity (Web + Network)
+> Exploring DevOps & Cloud Infrastructure
+```
+
+---
+
+## 🚀 Goals
+
+* 🔐 Become a **Security-focused Full Stack Engineer**
+* 🌍 Contribute to **impactful open-source projects**
+* ⚡ Build **real-world scalable systems**
+
+---
+
+⭐️ From [Ayush Ratna](https://github.com/ayush-delta)
